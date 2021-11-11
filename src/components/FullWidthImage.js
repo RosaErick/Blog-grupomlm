@@ -79,7 +79,7 @@ export default function FullWidthImage(props) {
                   padding: "0.25em",
                 }}
               >
-                {title}
+                {title}zssd
               </h1>
             )}
             {subheading && (
