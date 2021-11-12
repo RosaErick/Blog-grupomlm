@@ -12,7 +12,7 @@ intro:
       text: Lorem Ipsum
     - image: /img/Curitiba14maio2020d-1024x652.png
       text: a
-  heading: What we offer
+  heading: Lorem ipsium
   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac
     efficitur ipsum. Nulla sed finibus purus. Nam mattis ac nisi eget pharetra.
 main:
@@ -28,13 +28,6 @@ main:
   image3:
     alt: Coffee beans
     image: /img/products-grid1.jpg
-testimonials:
-  - author: Elisabeth Kaurismäki
-    quote: The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
-    quote: Kaldi is the place to go if you want the best quality coffee. I love
-      their stance on empowering farmers and transparency.
+testimonials: []
 full_image: /img/TamanhoDoA.jpg
-
 ---
