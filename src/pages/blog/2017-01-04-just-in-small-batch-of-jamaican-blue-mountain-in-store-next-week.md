@@ -1,34 +1,39 @@
 ---
 templateKey: 'blog-post'
-title: 'Just in: small batch of Jamaican Blue Mountain in store next week'
-date: 2017-01-04T15:04:10.000Z
+title: Lorem Ipsum
+date: 2021-11-12T15:04:10.000Z
 featuredpost: true
 description: >-
-  We’re proud to announce that we’ll be offering a small batch of Jamaica Blue
-  Mountain coffee beans in our store next week.
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac efficitur ipsum. Nulla sed finibus purus. Nam mattis ac nisi eget pharetra.
+
 tags:
-  - jamaica
-  - green beans
-  - flavor
-  - tasting
+  - Lorem Ipsum
+
+  - Lorem Ipsum
+
+  - Lorem Ipsum
+
+  - Lorem Ipsum
+
 ---
 
-We expect the shipment of a limited quantity of green beans next Monday. We’ll be offering the roasted beans from Tuesday, but quantities are limited, so be quick.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac efficitur ipsum. Nulla sed finibus purus. Nam mattis ac nisi eget pharetra. Sed vehicula mollis justo, ut consequat ex. Nullam a lorem at diam finibus maximus nec non nibh. Nam tincidunt vulputate auctor. Sed non dolor ante. Ut elementum, quam faucibus ornare scelerisque, velit nibh rhoncus justo, non scelerisque nulla dolor ac velit. Cras vel felis a massa imperdiet condimentum. Vestibulum accumsan lectus at faucibus ornare. Vivamus dictum viverra nulla, at tincidunt leo fringilla vel. Donec interdum nunc fringilla sem iaculis sodales. Nunc nec ornare lorem. Mauris vehicula libero vel varius consequat. Aliquam ornare libero ac turpis ultricies, et scelerisque purus tempor.
 
-Blue Mountain Peak is the highest mountain in Jamaica and one of the highest peaks in the Caribbean at 7,402 ft. It is the home of Blue Mountain coffee and their famous tours. It is located on the border of the Portland and Saint Thomas parishes of Jamaica.
+## Lorem Ipsum
 
-## A little history
 
-The Blue Mountains are considered by many to be a hiker's and camper's paradise. The traditional Blue Mountain trek is a 7-mile hike to the peak and consists of a 3,000-foot increase in elevation. Jamaicans prefer to reach the peak at sunrise, thus the 3–4 hour hike is usually undertaken in darkness. Since the sky is usually very clear in the mornings, Cuba can be seen in the distance.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac efficitur ipsum. Nulla sed finibus purus. Nam mattis ac nisi eget pharetra. Sed vehicula mollis justo, ut consequat ex. Nullam a lorem at diam finibus maximus nec non nibh. Nam tincidunt vulputate auctor. Sed non dolor ante. Ut elementum, quam faucibus ornare scelerisque, velit nibh rhoncus justo, non scelerisque nulla dolor ac velit. Cras vel felis a massa imperdiet condimentum. Vestibulum accumsan lectus at faucibus ornare. Vivamus dictum viverra nulla, at tincidunt leo fringilla vel. Donec interdum nunc fringilla sem iaculis sodales. Nunc nec ornare lorem. Mauris vehicula libero vel varius consequat. Aliquam ornare libero ac turpis ultricies, et scelerisque purus tempor.
 
->Some of the plants found on the Blue Mountain cannot be found anywhere else in the world and they are often of a dwarfed sort.
 
-This is mainly due to the cold climate which inhibits growth. The small coffee farming communities of Claverty Cottage and Hagley Gap are located near the peak.
+## Lorem Ipsum
 
-## What you need to know before trying
 
-Jamaican Blue Mountain Coffee or Jamaica Blue Mountain Coffee is a classification of coffee grown in the Blue Mountains of Jamaica. The best lots of Blue Mountain coffee are noted for their mild flavor and lack of bitterness. Over the past few decades, this coffee has developed a reputation that has made it one of the most expensive and sought-after coffees in the world. Over 80% of all Jamaican Blue Mountain Coffee is exported to Japan. In addition to its use for brewed coffee, the beans are the flavor base of Tia Maria coffee liqueur.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac efficitur ipsum. Nulla sed finibus purus. Nam mattis ac nisi eget pharetra. Sed vehicula mollis justo, ut consequat ex. Nullam a lorem at diam finibus maximus nec non nibh. Nam tincidunt vulputate auctor. Sed non dolor ante. Ut elementum, quam faucibus ornare scelerisque, velit nibh rhoncus justo, non scelerisque nulla dolor ac velit. Cras vel felis a massa imperdiet condimentum. Vestibulum accumsan lectus at faucibus ornare. Vivamus dictum viverra nulla, at tincidunt leo fringilla vel. Donec interdum nunc fringilla sem iaculis sodales. Nunc nec ornare lorem. Mauris vehicula libero vel varius consequat. Aliquam ornare libero ac turpis ultricies, et scelerisque purus tempor.
 
-Jamaican Blue Mountain Coffee is a globally protected certification mark, meaning only coffee certified by the Coffee Industry Board of Jamaica can be labeled as such. It comes from a recognized growing region in the Blue Mountain region of Jamaica, and its cultivation is monitored by the Coffee Industry Board of Jamaica.
+In condimentum, elit ac tincidunt bibendum, nisi nisl ullamcorper sapien, nec dignissim nisl est a turpis. Donec id pulvinar neque. Integer et ornare sapien. Proin consequat turpis eu nibh gravida, in tincidunt nibh faucibus. Nulla porttitor eros sit amet lacinia vestibulum. Nullam posuere mauris in vulputate vulputate. Donec ac libero viverra, vehicula elit egestas, egestas enim.
 
-The Blue Mountains are generally located between Kingston to the south and Port Antonio to the north. Rising 7,402 ft, they are some of the highest mountains in the Caribbean. The climate of the region is cool and misty with high rainfall. The soil is rich, with excellent drainage. This combination of climate and soil is considered ideal for coffee.
+Sed venenatis tortor laoreet ipsum vestibulum, eget bibendum orci consequat. Aliquam ultricies mattis diam vitae congue. Nulla facilisi. Curabitur ultricies mattis metus, quis accumsan nisl luctus non. Curabitur in felis id arcu venenatis gravida. Aliquam convallis est pellentesque, pellentesque ligula vitae, tempor lacus. Nam cursus neque quis orci fringilla pharetra.
+
+Nulla cursus tincidunt ex. Ut id massa pulvinar, dignissim nulla non, imperdiet tortor. Donec molestie non dolor quis ultricies. Praesent egestas non tellus sed pretium. Ut ac dui ultrices, eleifend massa nec, rutrum lacus. Nullam auctor interdum mattis. Curabitur ut nulla vel odio aliquet posuere. Duis at enim fermentum, euismod erat sollicitudin, egestas massa. Mauris id maximus eros, eu iaculis nisi. Cras lobortis eleifend urna imperdiet pharetra.
+
+Sed id justo tincidunt felis feugiat mattis. Fusce placerat laoreet turpis, id cursus augue auctor vel. Aenean tempus nisi et magna dictum consequat. Duis suscipit nisi vel arcu faucibus ullamcorper. Vestibulum dignissim nisi neque, ut interdum sem eleifend cursus. Nunc aliquet ullamcorper nibh sed aliquet. Aenean scelerisque vulputate tempor. In maximus nisl molestie dui porttitor, vitae ornare purus accumsan. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Fusce at massa tincidunt, dapibus mi eu, euismod orci.

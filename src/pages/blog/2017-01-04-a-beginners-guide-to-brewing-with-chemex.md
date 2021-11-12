@@ -1,29 +1,28 @@
 ---
 templateKey: blog-post
-title: A beginners’ guide to brewing with Chemex
-date: 2017-01-04T15:04:10.000Z
+title: 'What is Lorem Ipsum?'
+date: 2021-11-11T15:04:10.000Z
 featuredpost: false
-featuredimage: /img/chemex.jpg
-description: Brewing with a Chemex probably seems like a complicated, time-consuming ordeal, but once you get used to the process, it becomes a soothing ritual that's worth the effort every time.
+featuredimage: /img/cw-768x513.jpg
+description: Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...
+
 tags:
-  - brewing
-  - chemex
+  - Lorem Ipsum
+  - Lorem Ipsum
+
 ---
-![chemex](/img/chemex.jpg)
+![cw](/img/cw-768x513.jpg)
 
-This week we’ll **take** a look at all the steps required to make astonishing coffee with a Chemex at home. The Chemex Coffeemaker is a manual, pour-over style glass-container coffeemaker that Peter Schlumbohm invented in 1941, and which continues to be manufactured by the Chemex Corporation in Chicopee, Massachusetts.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac efficitur ipsum. Nulla sed finibus purus. Nam mattis ac nisi eget pharetra. Sed vehicula mollis justo, ut consequat ex. Nullam a lorem at diam finibus maximus nec non nibh. Nam tincidunt vulputate auctor. Sed non dolor ante. Ut elementum, quam faucibus ornare scelerisque, velit nibh rhoncus justo, non scelerisque nulla dolor ac velit. Cras vel felis a massa imperdiet condimentum. Vestibulum accumsan lectus at faucibus ornare. Vivamus dictum viverra nulla, at tincidunt leo fringilla vel. Donec interdum nunc fringilla sem iaculis sodales. Nunc nec ornare lorem. Mauris vehicula libero vel varius consequat. Aliquam ornare libero ac turpis ultricies, et scelerisque purus tempor.
 
-In 1958, designers at the [Illinois Institute of Technology](https://www.spacefarm.digital) said that the Chemex Coffeemaker is _"one of the best-designed products of modern times"_, and so is included in the collection of the Museum of Modern Art in New York City.
 
-## The little secrets of Chemex brewing
+## Lorem Ipsum
 
-The Chemex Coffeemaker consists of an hourglass-shaped glass flask with a conical funnel-like neck (rather than the cylindrical neck of an Erlenmeyer flask) and uses proprietary filters, made of bonded paper (thicker-gauge paper than the standard paper filters for a drip-method coffeemaker) that removes most of the coffee oils, brewing coffee with a taste that is different than coffee brewed in other coffee-making systems; also, the thicker paper of the Chemex coffee filters may assist in removing cafestol, a cholesterol-containing compound found in coffee oils. Here’s three important tips newbies forget about:
+In condimentum, elit ac tincidunt bibendum, nisi nisl ullamcorper sapien, nec dignissim nisl est a turpis. Donec id pulvinar neque. Integer et ornare sapien. Proin consequat turpis eu nibh gravida, in tincidunt nibh faucibus. Nulla porttitor eros sit amet lacinia vestibulum. Nullam posuere mauris in vulputate vulputate. Donec ac libero viverra, vehicula elit egestas, egestas enim.
 
-1. Always buy dedicated Chemex filters.
-2. Use a scale, don’t try to eyeball it.
-3. Never skip preheating the glass.
-4. Timing is key, don’t forget the clock.
+Sed venenatis tortor laoreet ipsum vestibulum, eget bibendum orci consequat. Aliquam ultricies mattis diam vitae congue. Nulla facilisi. Curabitur ultricies mattis metus, quis accumsan nisl luctus non. Curabitur in felis id arcu venenatis gravida. Aliquam convallis est pellentesque, pellentesque ligula vitae, tempor lacus. Nam cursus neque quis orci fringilla pharetra.
 
-The most visually distinctive feature of the Chemex is the heatproof wooden collar around the neck, allowing it to be handled and poured when full of hot water. This is turned, then split in two to allow it to fit around the glass neck. The two pieces are held loosely in place by a tied leather thong. The pieces are not tied tightly and can still move slightly, retained by the shape of the conical glass.
+Nulla cursus tincidunt ex. Ut id massa pulvinar, dignissim nulla non, imperdiet tortor. Donec molestie non dolor quis ultricies. Praesent egestas non tellus sed pretium. Ut ac dui ultrices, eleifend massa nec, rutrum lacus. Nullam auctor interdum mattis. Curabitur ut nulla vel odio aliquet posuere. Duis at enim fermentum, euismod erat sollicitudin, egestas massa. Mauris id maximus eros, eu iaculis nisi. Cras lobortis eleifend urna imperdiet pharetra.
 
-For a design piece that became popular post-war at a time of Modernism and precision manufacture, this juxtaposition of natural wood and the organic nature of a hand-tied knot with the laboratory nature of glassware was a distinctive feature of its appearance.
+Sed id justo tincidunt felis feugiat mattis. Fusce placerat laoreet turpis, id cursus augue auctor vel. Aenean tempus nisi et magna dictum consequat. Duis suscipit nisi vel arcu faucibus ullamcorper. Vestibulum dignissim nisi neque, ut interdum sem eleifend cursus. Nunc aliquet ullamcorper nibh sed aliquet. Aenean scelerisque vulputate tempor. In maximus nisl molestie dui porttitor, vitae ornare purus accumsan. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Fusce at massa tincidunt, dapibus mi eu, euismod orci.
+

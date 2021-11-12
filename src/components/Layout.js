@@ -11,32 +11,32 @@ const TemplateWrapper = ({ children }) => {
   return (
     <div>
       <Helmet>
-        <html lang="en" />
+        <html lang="pt-br" />
         <title>{title}</title>
         <meta name="description" content={description} />
 
         <link
           rel="apple-touch-icon"
           sizes="180x180"
-          href={`${withPrefix("/")}img/apple-touch-icon.png`}
+          href={`${withPrefix("/")}img/logomlm.png`}
         />
         <link
           rel="icon"
           type="image/png"
-          href={`${withPrefix("/")}img/favicon-32x32.png`}
+          href={`${withPrefix("/")}img/logomlm.png`}
           sizes="32x32"
         />
         <link
           rel="icon"
           type="image/png"
-          href={`${withPrefix("/")}img/favicon-16x16.png`}
+          href={`${withPrefix("/")}img/logomlm.png`}
           sizes="16x16"
         />
 
         <link
           rel="mask-icon"
-          href={`${withPrefix("/")}img/safari-pinned-tab.svg`}
-          color="#ff4400"
+          href={`${withPrefix("/")}img/logomlm.png`}
+          color="#000"
         />
         <meta name="theme-color" content="#fff" />
 
@@ -45,7 +45,7 @@ const TemplateWrapper = ({ children }) => {
         <meta property="og:url" content="/" />
         <meta
           property="og:image"
-          content={`${withPrefix("/")}img/og-image.jpg`}
+          content={`${withPrefix("/")}img/TamanhodoA.jpg`}
         />
       </Helmet>
       <Navbar />

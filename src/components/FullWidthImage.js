@@ -4,11 +4,12 @@ import { GatsbyImage } from "gatsby-plugin-image";
 
 export default function FullWidthImage(props) {
   const {
-    height = 400,
+    height = 200,
+  
     img,
     title,
     subheading,
-    imgPosition = "top left",
+    imgPosition = "down center",
   } = props;
 
   return (
@@ -28,11 +29,11 @@ export default function FullWidthImage(props) {
             style={{
               gridArea: "1/1",
               // You can set a maximum height for the image, if you wish.
-              height: height,
+              height: 100,
               width: "100%",
             }}
             // You can optionally force an aspect ratio for the generated image
-            aspectratio={3 / 1}
+            aspectratio={1 / 1}
             // This is a presentational image, so the alt should be an empty string
             alt=""
             formats={["auto", "webp", "avif"]}
@@ -49,7 +50,7 @@ export default function FullWidthImage(props) {
             }}
             layout="fullWidth"
             // You can optionally force an aspect ratio for the generated image
-            aspectratio={3 / 1}
+            aspectratio={1 / 1}
             // This is a presentational image, so the alt should be an empty string
             alt=""
             formats={["auto", "webp", "avif"]}
@@ -75,7 +76,7 @@ export default function FullWidthImage(props) {
                   backgroundColor: "rgb(0, 0, 0)",
                   color: "white",
                   lineHeight: "1",
-                  padding: "0.25em",
+                  padding: "0.15em",
                 }}
               >
                 {title}
