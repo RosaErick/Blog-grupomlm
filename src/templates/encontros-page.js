@@ -187,10 +187,7 @@ export const productPageQuery = graphql`
             }
           }
         }
-        testimonials {
-          author
-          quote
-        }
+    
 
         full_image {
           childImageSharp {
