@@ -10,6 +10,8 @@ intro:
   blurbs:
     - image: /img/mg_0327-768x512.jpg
       text: Lorem Ipsum
+    - image: /img/Curitiba14maio2020d-1024x652.png
+      text: a
   heading: What we offer
   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac
     efficitur ipsum. Nulla sed finibus purus. Nam mattis ac nisi eget pharetra.
@@ -39,5 +41,10 @@ pricing:
   description: We make it easy to make great coffee a part of your life. Choose
     one of our monthly subscription plans to receive great coffee at your
     doorstep each month. Contact us about more details and payment info.
-  plans: []
+  plans:
+    - plan: as
+      price: a
+      description: s
+      items:
+        - s
 ---
