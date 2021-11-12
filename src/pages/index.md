@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Maria Lacerda de Moura
-image: /img/mg_0327-768x512.jpg
+image: /img/TamanhoDoA.jpg
 heading: Great coffee with a conscience
 subheading: Grupo de Estudos Anarquistas
 mainpitch:
