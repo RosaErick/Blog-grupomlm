@@ -55,7 +55,7 @@ export const ProductPageTemplate = ({
                             <Video />
                         </article>
                       
-                <Testimonials testimonials={testimonials} />
+               
               </div>
             </div>
           </div>
