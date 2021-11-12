@@ -8,6 +8,7 @@ import Features from "../components/Features";
 import BlogRoll from "../components/BlogRoll";
 import FullWidthImage from "../components/FullWidthImage";
 
+
 // eslint-disable-next-line
 export const IndexPageTemplate = ({
   image,
@@ -48,7 +49,7 @@ export const IndexPageTemplate = ({
                   <Features gridItems={intro.blurbs} />
                   <div className="columns">
                     <div className="column is-12 has-text-centered">
-                      <Link className="btn" to="/products">
+                      <Link className="btn" to="/encontros">
                         Encontros
                       </Link>
                     </div>

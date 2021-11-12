@@ -2,7 +2,7 @@
 templateKey: 'blog-post'
 title: Lorem Ipsum
 date: 2021-11-12T15:04:10.000Z
-featuredpost: true
+featuredpost: false
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac efficitur ipsum. Nulla sed finibus purus. Nam mattis ac nisi eget pharetra.
 

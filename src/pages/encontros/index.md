@@ -1,7 +1,7 @@
 ---
 heading: Encontros
-path: /products
-templateKey: product-page
+path: /encontros
+templateKey: encontros-page
 title: Encontros
 image: /img/cw-768x513.jpg
 description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac
@@ -36,15 +36,5 @@ testimonials:
     quote: Kaldi is the place to go if you want the best quality coffee. I love
       their stance on empowering farmers and transparency.
 full_image: /img/TamanhoDoA.jpg
-pricing:
-  heading: Monthly subscriptions
-  description: We make it easy to make great coffee a part of your life. Choose
-    one of our monthly subscription plans to receive great coffee at your
-    doorstep each month. Contact us about more details and payment info.
-  plans:
-    - plan: as
-      price: a
-      description: s
-      items:
-        - s
+
 ---
