@@ -7,7 +7,9 @@ image: /img/cw-768x513.jpg
 description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac
   efficitur ipsum. Nulla sed finibus purus. Nam mattis ac nisi eget pharetra.
 intro:
-  blurbs: []
+  blurbs:
+    - image: /img/mg_0327-768x512.jpg
+      text: Lorem Ipsum
   heading: What we offer
   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac
     efficitur ipsum. Nulla sed finibus purus. Nam mattis ac nisi eget pharetra.
