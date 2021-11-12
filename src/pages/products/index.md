@@ -1,28 +1,20 @@
 ---
-heading: Great coffee with a conscience
+heading: Encontros
 path: /products
 templateKey: product-page
-title: Our Coffee
-image: /img/jumbotron.jpg
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+title: Encontros
+image: /img/cw-768x513.jpg
+description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac
+  efficitur ipsum. Nulla sed finibus purus. Nam mattis ac nisi eget pharetra.
 intro:
   blurbs: []
   heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac
+    efficitur ipsum. Nulla sed finibus purus. Nam mattis ac nisi eget pharetra.
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  heading: "Vídeos:"
+  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac
+    efficitur ipsum. Nulla sed finibus purus. Nam mattis ac nisi eget pharetra.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
