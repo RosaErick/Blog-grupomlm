@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Maria Lacerda de Moura
 image: /img/TamanhoDoA.jpg
-heading: Great coffee with a conscience
+heading: loremiplosum
 subheading: Grupo de Estudos Anarquistas
 mainpitch:
   title: Grupo de Estudos Maria Lacerda de Moura
@@ -15,12 +15,8 @@ intro:
   heading: s
   description: s
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  heading: lorem ipsum
+  description: lorem ipsum
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/69348200_1222879154571378_2407555595788877824_n.jpg
