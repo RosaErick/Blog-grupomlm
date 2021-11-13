@@ -51,7 +51,7 @@ export const ProductPageTemplate = ({
                   </div>
                 </div>
            
-                        <article className="container is-flex is-flex-direction-column is-justify-content-center">
+                        <article className="block">
                             <Video />
                         </article>
                       

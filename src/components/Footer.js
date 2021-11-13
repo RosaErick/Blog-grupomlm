@@ -4,8 +4,7 @@ import { Link } from "gatsby";
 import logo from "../img/logomlm.svg";
 import facebook from "../img/social/facebook.svg";
 import instagram from "../img/social/instagram.svg";
-import twitter from "../img/social/twitter.svg";
-import vimeo from "../img/social/vimeo.svg";
+
 
 const Footer = class extends React.Component {
   render() {
@@ -15,7 +14,7 @@ const Footer = class extends React.Component {
           <img
             src={logo}
             alt="MLM"
-            style={{ width: "14em", height: "10em" }}
+            style={{ width: "12em", height: "18em" }}
           />
         </div>
         <div className="content has-text-centered has-background-black has-text-white-ter">
@@ -35,37 +34,24 @@ const Footer = class extends React.Component {
                       </Link>
                     </li>
                     <li>
-                      <Link className="navbar-item" to="/products">
+                      <Link className="navbar-item" to="/blog">
                        Textos
                       </Link>
                     </li>
-                    <li>
+                
+                  </ul>
+                </section>
+              </div>
+              <div className="column is-7">
+                <section>
+                  <ul className="menu-list">
+                    
+                       <li>
                       <Link className="navbar-item" to="/contact/examples">
                         Encontros
                       </Link>
                     </li>
-                    <li>
-                      <a
-                        className="navbar-item"
-                        href="/admin/"
-                        target="_blank"
-                        rel="noopener noreferrer"
-                      >
-                        Admin
-                      </a>
-                    </li>
-                  </ul>
-                </section>
-              </div>
-              <div className="column is-4">
-                <section>
-                  <ul className="menu-list">
-                    <li>
-                      <Link className="navbar-item" to="/blog">
-                        Latest Stories
-                      </Link>
-                    </li>
-                    <li>
+                   <li>
                       <Link className="navbar-item" to="/contact">
                         Contato
                       </Link>
@@ -74,7 +60,7 @@ const Footer = class extends React.Component {
                 </section>
               </div>
               <div className="column is-4 social">
-                <a title="facebook" href="https://facebook.com">
+                <a title="facebook" href="https://www.facebook.com/grupodeestudosanarquistasmarialacerdademoura">
                   <img
                     src={facebook}
                     alt="Facebook"
@@ -82,7 +68,7 @@ const Footer = class extends React.Component {
                   />
                 </a>
              
-                <a title="instagram" href="https://instagram.com">
+                <a title="instagram" href="https://www.instagram.com/grupodeestudosmlm/">
                   <img
                     src={instagram}
                     alt="Instagram"

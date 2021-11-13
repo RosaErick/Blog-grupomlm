@@ -1,37 +1,40 @@
-import React from "react"
+import React from "react";
 const Video = ({ videoSrcURL, videoTitle, ...props }) => (
-    <div className="video">
-    <div className="" ><iframe
-      src={"https://www.youtube.com/watch?v=YdSKq9FvQ2Y"}
-      title={videoTitle}
-      allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-      frameBorder="25"
-      webkitallowfullscreen="true"
-      mozallowfullscreen="true"
-      allowFullScreen
-        /></div>
-           <div ><iframe
-      src={"https://www.youtube.com/watch?v=h5CXw2dV9kk"}
-      title={videoTitle}
-      allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-      frameBorder="0"
-      webkitallowfullscreen="true"
-      mozallowfullscreen="true"
-      allowFullScreen
-        /></div> 
-        
+  <div className="column">
+    <div className="content has-text-centered">
+      <iframe
+        width="560"
+        height="315"
+        src="https://www.youtube.com/embed/h5CXw2dV9kk"
+        title="YouTube video player"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen
+      ></iframe>
+    </div>
+    <div className="content has-text-centered ">
+      <iframe
+        width="560"
+        height="315"
+        src="https://www.youtube.com/embed/YdSKq9FvQ2Y"
+        title="YouTube video player"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen
+      ></iframe>
+    </div>
 
-        <div><iframe
-      src={"https://www.youtube.com/watch?v=aPxZ5wxYAKE"}
-      title={videoTitle}
-      allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-      frameBorder="0"
-      webkitallowfullscreen="true"
-      mozallowfullscreen="true"
-      allowFullScreen
-    />
-</div> 
-
+    <div className="content has-text-centered">
+      <iframe
+        width="560"
+        height="315"
+        src="https://www.youtube.com/embed/aPxZ5wxYAKE"
+        title="YouTube video player"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen
+      ></iframe>
+    </div>
   </div>
-)
-export default Video
+);
+export default Video;
