@@ -4,8 +4,6 @@ import { graphql } from "gatsby";
 import { getImage } from "gatsby-plugin-image";
 import Layout from "../components/Layout";
 import Features from "../components/Features";
-import Testimonials from "../components/Testimonials";
-import PreviewCompatibleImage from "../components/PreviewCompatibleImage";
 import FullWidthImage from "../components/FullWidthImage";
 import Video from "../components/video";
 
@@ -17,9 +15,7 @@ export const ProductPageTemplate = ({
   description,
   intro,
   main,
-  testimonials,
   fullImage,
- 
 }) => {
   const heroImage = getImage(image) || image;
   const fullWidthImage = getImage(fullImage) || fullImage;
@@ -41,7 +37,7 @@ export const ProductPageTemplate = ({
             <div className="columns">
               <div className="column is-10 is-offset-1">
                 <Features gridItems={intro.blurbs} />
-               
+
                 <div className="columns">
                   <div className="column is-7">
                     <h3 className="has-text-weight-semibold is-size-3">
@@ -50,12 +46,10 @@ export const ProductPageTemplate = ({
                     <p>{main.description}</p>
                   </div>
                 </div>
-           
-                        <article className="block">
-                            <Video />
-                        </article>
-                      
-               
+
+                <article className="block">
+                  <Video />
+                </article>
               </div>
             </div>
           </div>
@@ -67,11 +61,8 @@ export const ProductPageTemplate = ({
           <div className="section">
             <div className="columns">
               <div className="column is-10 is-offset-1">
-                <h2 className="has-text-weight-semibold is-size-2">
-                
-                </h2>
+                <h2 className="has-text-weight-semibold is-size-2"></h2>
                 <p className="is-size-5">LOREM Ipsum</p>
-               
               </div>
             </div>
           </div>
@@ -187,15 +178,12 @@ export const productPageQuery = graphql`
             }
           }
         }
-    
 
         full_image {
           childImageSharp {
             gatsbyImageData(quality: 100, layout: FULL_WIDTH)
           }
         }
-
-        
       }
     }
   }
