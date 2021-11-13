@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Grupo de Estudos
 image: /img/TamanhoDoA.jpg
-heading: ---------------------------------
+heading: Lorem Ipsum
 subheading: Maria Lacerda de Moura
 mainpitch:
   title: Bem-vindo!
