@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Maria Lacerda de Moura
+title: Grupo de Estudos
 image: /img/TamanhoDoA.jpg
 heading: loremiplosum
-subheading: Grupo de Estudos Anarquistas
+subheading: Maria Lacerda de Moura
 mainpitch:
   title: Grupo de Estudos Maria Lacerda de Moura
   description: >-
