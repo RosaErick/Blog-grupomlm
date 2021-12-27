@@ -27,8 +27,8 @@ export const ProductPageTemplate = ({
         <div className="container">
           <div className="section">
             <div className="columns">
-              <div className="column is-7 is-offset-1">
-                <h3 className="has-text-weight-semibold is-size-2">
+              <div className="column is-3 is-offset-1">
+                <h3 className="has-text-weight-semibold is-size-1">
                   {heading}
                 </h3>
                 <p>{description}</p>
@@ -55,19 +55,7 @@ export const ProductPageTemplate = ({
           </div>
         </div>
       </section>
-      <FullWidthImage img={fullWidthImage} imgPosition={"center"} />
-      <section className="section section--gradient">
-        <div className="container">
-          <div className="section">
-            <div className="columns">
-              <div className="column is-10 is-offset-1">
-                <h2 className="has-text-weight-semibold is-size-2"></h2>
-                <p className="is-size-5">LOREM Ipsum</p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
+     
     </div>
   );
 };
