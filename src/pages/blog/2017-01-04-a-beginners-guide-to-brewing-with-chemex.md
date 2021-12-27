@@ -2,7 +2,9 @@
 templateKey: blog-post
 title: NÓS VAMOS TODOS MORRER
 date: 2021-11-11T15:04:10.000Z
-description: Resenha sobre o filme "Don't Look Up", escrita por Camila Jourdan
+description: >
+  Resenha sobre o filme "Don't Look Up", escrita por Camila Jourdan (CONTÉM
+  SPOILER)
 featuredpost: false
 featuredimage: /img/dontlkup.png
 tags:
@@ -11,19 +13,11 @@ tags:
 ---
 ![cw](/img/dontlkup.png)
 
-
-
-
-
 A primeira coisa que se pode observar sobre ‘Não olhe para cima’ é que não é uma sátira, pelo menos não no sentido de exagerar características para torná-las ridículas, provocando com esse exagero a crítica pelo riso com a caricatura. A sátira perde seu poder de intervenção política pela ridicularização quando o ridículo é afirmado como norma. A questão hoje é que a realidade política espetacular se tornou uma sátira de si mesma, e é exatamente por isso que a obra cinematográfica em questão pode parecer uma sátira sendo totalmente realista ao mesmo tempo. Em todo caso, perde-se o poder de crítica porque se a sátira poderia criticar precisamente por exagerar, tudo que ela poderia fazer já está dado no próprio real e ainda mais.
 
 “Não há nada a criticar em Donald Trump. Ele já absorveu e incorporou o pior que podemos falar sobre ele. Ele o encarnou. Ele carrega no peito todas as queixas que jamais pensamos poder lhe fazer. Ele é sua própria caricatura e tem orgulho disso. Mesmo os criadores de South Park jogaram a toalha: ‘É muito complicado, agora que a sátira se tornou realidade. Tentamos verdadeiramente rir do que estava acontecendo, mas não conseguimos manter o ritmo. O que acontecia era muito mais engraçado do que podíamos imaginar. Assim, decidimos esquecer o assunto, deixá-los representar sua comédia, e nós faríamos a nossa.’ Nós vivemos em um mundo que se estabeleceu além de toda a justificação. Aqui a crítica não pode mais nada, não mais que a sátira.” (COMITÊ INVISÍVEL, *Motim e Destituição*, p.08)
 
-
-
 Se a sátira perdeu o seu poder enquanto sátira porque virou descrição adequada de um real satírico, o valor do filme talvez esteja em deixar isso evidente. O espetáculo é caricatural. Ninguém pode provocar o riso por um real exagerado quando o exagero é a regra. Adiantar-se à própria ridicularização é fazê-la perder o seu poder como comédia. Então, penso que não há comédia em ‘Não olhe pra cima’, ainda que possamos rir em alguns momentos do filme, é sempre com mais desespero do que com leveza. Quem poderia ter vivido 2020, ouvido as declarações de nossos políticos sobre a pandemia, e achar que o filme exagera ao retratar o fenômeno do negacionismo? Não é exatamente o que vivemos hoje com o colapso climático sendo varrido pra debaixo do tapete?
-
-
 
 Quem nunca ouviu lamentos sobre a destruição de coisas sendo mais importante do que sobre a destruição de vidas? O filho da presidente é uma personagem que merece uma análise própria. Literalmente, o último homem. Diante da eminente destruição do planeta, sua última declaração é: “vamos rezar pelas coisas que serão destruídas, eu até respeito quem está rezando pelas pessoas, mas eu gostaria de rezar pelas coisas”. Pode parecer exagerado, mas não pra quem viu os moradores do Leblon levando flores para os manequins da Toulon enquanto ignoravam as mortes nas favelas. Não para quem viu as vidraças quebradas indignarem mais do que casas demolidas com crianças dentro. O filho da presidente não é exagerado, ele encarna um modo de vida. Vivemos um mundo que reza pelas coisas mais do que pelas pessoas.
 
