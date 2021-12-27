@@ -10,10 +10,10 @@ mainpitch:
     
     O Grupo de Estudos Anarquistas Maria Lacerda de Moura surgiu em meio às jornadas de junho de 2013 tendo em vista a divulgação e debate sobre o anarquismo.
 description: "Somos um grupo de estudos itinerante, voltado para prática real,
-  que desde 2014, possui sessões quinzenais em vários locais, dentre eles:
-  Universidades; escolas da rede pública; ocupações sem teto ou culturais;
-  praças públicas; a Mangueira em articulação com o pré-vestibular comunitário
-  da ADEP, a aldeia maracanã."
+  que possui sessões quinzenais em vários locais, dentre eles: Universidades;
+  escolas da rede pública; ocupações sem teto ou culturais; praças públicas; a
+  Mangueira em articulação com o pré-vestibular comunitário da ADEP, a aldeia
+  maracanã."
 intro:
   blurbs: []
   heading: s
