@@ -28,7 +28,7 @@ intro:
       text: Lorem Ipsum
     - image: /img/69909732_1222319411294019_2332212862870618112_n.png
       text: Lorem Ipsum
-  heading: Lorem ipsium
+  heading: n
   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac
     efficitur ipsum. Nulla sed finibus purus. Nam mattis ac nisi eget pharetra.
 main:
