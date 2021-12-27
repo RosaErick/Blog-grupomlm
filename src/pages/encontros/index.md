@@ -33,8 +33,7 @@ intro:
     efficitur ipsum. Nulla sed finibus purus. Nam mattis ac nisi eget pharetra.
 main:
   heading: "Vídeos:"
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac
-    efficitur ipsum. Nulla sed finibus purus. Nam mattis ac nisi eget pharetra.
+  description: Alguns encontros remotos durante o período pandemia.
   image1:
     alt: Lorem Ipsum
     image: /img/cw-768x513.jpg
