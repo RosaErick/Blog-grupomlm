@@ -5,7 +5,7 @@ title: Feminismo, educação libertária e antifascismo no pensamento de Maria
 date: 2021-11-27T15:04:00.000Z
 description: Verbete sobre a vida de Maria Lacerda de Moura escrito por Camila
   Jourdan para blog Mulheres na Filosofia.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/maria-lacerda-de-moura_nmk_blog.jpg
 tags:
   - Anarquismo
