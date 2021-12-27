@@ -6,11 +6,13 @@ date: 2021-11-27T15:04:00.000Z
 description: Verbete sobre a vida de Maria Lacerda de Moura escrito por Camila
   Jourdan para blog Mulheres na Filosofia.
 featuredpost: true
-featuredimage: /img/mlmmaria.png
+featuredimage: /img/maria-lacerda-de-moura_nmk_blog.jpg
 tags:
   - Anarquismo
   - Maria
 ---
+![](/img/maria-lacerda-de-moura_nmk_blog.jpg)
+
 **Informações Biográficas**
 
 Maria Lacerda de Moura foi uma pensadora anarquista brasileira, feminista e pacifista. Ela nasceu em 1887, na cidade de Manhuaçu, em Minas Gerais, e morreu em 1945, no Rio de Janeiro. Filha de uma família de classe média, cursou a Escola Normal em Barbacena, tornando-se professora primária. Seu pai era espírita e fortemente anticlerical, a educação laica das filhas foi uma prioridade na vida dele e uma influência que Maria Lacerda carregou durante toda vida. Além disso, a família recebia e ajudava imigrantes pobres. Ainda em Barbacena, enquanto professora, Maria Lacerda desenvolveu um trabalho junto às mulheres da região, organizando mutirões para a construção de casas populares. Também nesta época fundou a *Liga contra o Analfabetismo*, onde dava aulas de alfabetização gratuitas para jovens e adultos.
@@ -29,11 +31,7 @@ De fato, falar de Maria Lacerda de Moura como uma filósofa é um grande desafio
 Também acho que é uma briga que não precisamos comprar. Para mim, é filósofo ou filósofa quem trata das questões filosóficas e fornece uma abordagem própria para elas. Neste sentido, Maria Lacerda de Moura certamente foi filósofa, principalmente se destacarmos que filosofia da educação é uma parte da filosofia. Porém, tendemos a chamar filósofos aqueles que são reconhecidos como tais por uma tradição e, neste caso, Maria Lacerda de Moura não é (como outras tantas pensadoras e outros tantos pensadores, aliás). O que procurei destacar no texto é que ela não é reconhecida pela tradição sequer como pensadora anarquista e feminista, ou seja, há um apagamento mesmo da sua produção, de tal maneira que não podemos tanto usar o critério do reconhecimento para avaliar se ela é ou não o que quer que seja. Mas  realmente isso não ficou claro na minha formulação no verbete. Eu poderia alterar, indicando essas reflexões, ou podemos simplesmente suprimir, como sugerido, e deixamos ela como pensadora feminista, como vocês acharem melhor.  -->. Mesmo sua contribuição pedagógica é largamente desconsiderada. Esse apagamento histórico, apesar da grande importância da sua obra, se deve em ampla medida ao caráter desviante de seu pensamento. Mesmo sendo influenciada por várias correntes consagradas entre a intelectualidade engajada do início do século XX, Maria Lacerda de Moura sempre fez questão de manter sua total independência intelectual, não se vinculando jamais completamente a nenhuma dessas correntes. Ademais, ser mulher, anarquista e feminista nunca foi fácil pra ninguém em nenhuma época. Como ela mesma afirmou sobre si: “sou uma grande indesejável”. Individualista[1](#sdfootnote1sym) <!-- Por que “individualista”? A atribuição merece alguma justificativa. ML pode ter se desviado do pensamento comunista dominante por outras razões que não o seu suposto “individualismo”, não? Além disso, a luta de ML por uma educação libertadora e igualitária e a sua crítica aos valores burgueses (o individualismo, um dos valores centrais da burguesia na modernidade) contrastam com essa caracterização dela como “individualista”. --><!-- Responder a Anônimo (07/08/2020, 16:56): "..."
 Coloquei uma nota explicando. -->demais para o pensamento dominante comunista; pacifista demais para as principais abordagens anarquistas; antiliberal demais para o feminismo reinante na época, Maria Lacerda de Moura acaba por cunhar um pensamento próprio e original, extremamente atual, apesar das temáticas engajadas nas lutas da época, mas cujas principais bases e conceitos podem ser resgatados para a reflexão no momento presente.
 
-
-
 **Uma educação libertadora**
-
-
 
 Uma posição que Maria Lacerda sustentou durante toda sua vida foi a de que o caminho para mudar a sociedade seria a educação. Uma transformação não violenta, como a autora defendia, seria apenas possível pela ação educativa. Ela acreditava que uma revolução nos valores e nas mentes seria condição necessária para a revolução social não-violenta. Mas, para isso, seria preciso que a escola não fosse opressora nem baseada no sistema de recompensas e castigos. Seria preciso ainda banir todo militarismo e a religião da educação. A escola deveria agir como uma célula transformadora da sociedade, a partir da qual se poderia incentivar a reconstrução valorativa de outros âmbitos. Dessa forma, transformar a escola, para que ela não reproduzisse as hierarquias socais e se transformasse em agente criativo da transformação, seria o passo fundamental de qualquer processo revolucionário.
 
@@ -57,30 +55,16 @@ Na formulação de Maria Lacerda, ela analisa como dois casos. -->com a outra e 
 
 Para ela, a opressão objetificadora da mulher seria a base de outras opressões, como a de classe[2](#sdfootnote2sym).<!-- Incluir referência. --> Neste sentido, a autora opera uma articulação bastante original entre feminismo e anticapitalismo. <!-- Sugerimos incluir aqui uma citação da autora em destaque, pois o tema é um dos mais caros à ML. -->Por um lado, a submissão das mulheres seria fundamental para a manutenção da ordem capitalista, e por isso seria ainda sustentada pela religião, pelo Estado e pela ciência da época. Por outro lado, a ordem capitalista seria fundamental para a continuação da opressão sobre as mulheres, de tal modo que a emancipação total das mulheres só seria possível em outra ordem social e, por isso, o feminismo deveria ser sempre também necessariamente revolucionário.
 
-
-
 Perguntam-me o que penso a respeito da emancipação feminina. Para mim, é mais um elo na emancipação humana. A organização social de prejuízos e privilégios, baseada no capital e no salário, na exploração do homem pelo homem, civilização industrial-burgueza, nunca emancipará nem ao homem (…), nem à mulher.\
 Dentro da sociedade capitalista a mulher é duas vezes escrava: é a ‘protegida’, a tutelada, a ‘pupila’ do homem, a criatura domesticada por um ‘senhor’ cioso, e, ao mesmo tempo, é escrava social de uma sociedade baseada no dinheiro e nos privilégios mantidos pela autoridade do Estado e pela força armada para defender o poder, a autoridade, a propriedade privada, o patriotismo monetário.[3](#sdfootnote3sym)
 
-
-
-
-
 Maria Lacerda foi uma grande crítica da família tradicional como célula da opressão social. Para ela, o amor só pode ser plenamente vivido fora do casamento, de maneira livre e plural. Ela desenvolveu reflexões extremamente avançadas sobre este tema. O amor seria a principal força que motivaria o ser humano e, portanto, não deveria ser submetido por nada. Maria Lacerda entendia que o amor seria justamente o afeto capaz de romper com o princípio do ego e, por isso, seria contraditório com o ciúme. O amor plural seria aquele que se divide com mais de uma pessoa, sem possessividade e sem, no entanto, perder sua essência. A pensadora equaciona o amor ao princípio máximo da vida e, por isso, acredita que este sentimento é capaz de romper com as convenções sociais e outras amarras que limitam o indivíduo e seu pleno desenvolvimento. Ela é inspirada neste ponto pelas reflexões de Han Ryner, filósofo do amor plural e libertário. A fidelidade não teria, para a pensadora, nenhuma relação com a monogamia, que seria de fato uma maneira de manter as mulheres como propriedades dos homens, até porque não valia de fato para estes últimos *(Cf.:* MOURA, 1933). Neste sentido, ser fiel significa ser sincero, e isso inclui não ser hipócrita sustentando uma exclusividade irreal. O desejo por outra pessoa não deveria ser ofensivo, nem significaria a morte do amor entre um casal. O mais importante seria a disposição de ambos para não se magoarem e para estabelecerem acordos bons para os envolvidos, de forma que mesmo praticando o amor plural, nenhuma das pessoas amadas sofresse prejuízos quanto aos sentimentos devotados. Assim,Maria Lacerda de Moura critica o mito do amor romântico, que teria sido tão nefasto para as mulheres, e a busca por um único parceiro em uma vida monogâmica, que seria uma forma de dominação. Isso estaria no cerne da educação afetiva da mulher, que a levaria a acreditar nessa perspectiva do “único grande amor”. Assim, a mulher se tornaria presa cativa na família tradicional, enquanto os homens seriam incentivados a ter várias experiências e expandir suas possibilidades. A mulher se tornaria assim um satélite de um homem, girando sua existência em torno dele de modo submisso sem buscar estudar, viajar e desenvolver-se.
-
-
 
 **Reflexões sobre o Fascismo**
 
-
-
 Talvez a característica mais atual do pensamento de Maria Lacerda de Moura seja a sua abordagem do fascismo presente em *Fascismo, o filho dileto da igreja e do capital* (1935).<!-- Incluir ano de publicação. --> Nesta obra, a pensadora defende que o sistema capitalista é sempre já potencialmente fascista e pretende ao mesmo tempo demonstrar sua relação interna com a instituição religiosa, a igreja e o clero, que ela diferencia do que seria um sentido profundo de religiosidade e do próprio Cristo. Para ela, a igreja seria o verdadeiro anticristo. Assim, ela pretende mostrar como capitalismo; igreja e fascismo se fortalecem ao longo da história, associando os princípios do nazismo com os da inquisição e o ódio à racionalidade e à ciência. Além disso, ela ressalta mais uma vez a importância do domínio da educação para que esse projeto se torne possível:
 
-
-
 Vem de longe a aliança entre o altar e o trono: a Igreja sabe contar com o fator tempo para sugestionar o subconsciente e apoderar-se da razão, falseando o raciocínio até o obscurecimento absoluto da reflexão. Para isso, reivindicou sempre o direito à educação. Foi através da escola que chegou a reduzir a razão humana à expressão de zero. (1935, p.14)
-
-
 
 ~~Analisa-se~~ A obra analisa o racismo escravocrata da igreja, o terror e a violência contidos nas escrituras selecionadas pelos Concílios. <!-- A frase parece um pouco solta. Quem é o sujeito dela? Sugerimos revisão. -->Particularmente, Maria Lacerda ressalta as execuções, perseguições e o machismo presentes no Antigo Testamento, além de como estes aspectos se perpetuariam na cultura moderna, no ódio e culpabilização das mulheres, na legitimação da tortura e dos assassinatos em nome de Deus. A pensadora mostra como o Estado totalitário fascista faz uso desses elementos religiosos disseminados pela educação no imaginário popular de maneira a perpetuar e expandir seu poder.
 
@@ -90,17 +74,7 @@ Por fim, ela defende ainda uma resistência estética ao fascismo por meio da ar
 OK -->, o que seria, para a autora, incompatível com os princípios do fascismo.<!-- Tendo em vista nossa sugestão de que o verbete seja publicado na aba “Teorias feministas”, gostaríamos de consultar você sobre a possibilidade de inverter as seções 2 e 3, ou seja, a seção sobre o fascismo viria depois da seção sore a educação e a última seria sobre o feminismo de ML. Como isso o verbete estaria construído com vistas ao tema do feminismo. É uma mudança pouco substantiva, trata-se somente de uma inversão.  --><!-- Responder a Anônimo (07/08/2020, 18:16): "..."
 OK -->
 
-
-
-
-
-
-
-
-
 **OBRAS DE MARIA LACERDA DE MOURA**
-
-
 
 MOURA, Maria Lacerda de. *Em torno da Educação.* São Paulo: Teixeira, 1918.
 
