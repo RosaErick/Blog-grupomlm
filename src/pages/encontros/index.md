@@ -5,8 +5,13 @@ templateKey: encontros-page
 full_image: /img/TamanhoDoA.jpg
 title: Encontros
 image: /img/cw-768x513.jpg
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac
-  efficitur ipsum. Nulla sed finibus purus. Nam mattis ac nisi eget pharetra.
+description: Nossos encontros Proporcionam o estudo situado na realidade da
+  tradição de pensamento anarquista e libertário, através do exercício contínuo
+  da prática de autogestão e do debate que conjuga elementos teóricos com a
+  compreensão do contexto social, político e histórico que vivenciamos hoje.
+  Nossos encontros são também um espaço de criação e expressão de saberes e
+  sentimentos, bem como de confluência de diferentes experiências e histórias,
+  de articulações e expressões.
 intro:
   blurbs:
     - image: /img/242673837_1881050938754193_6187023106777623265_n.jpg
