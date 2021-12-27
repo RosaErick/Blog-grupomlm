@@ -27,7 +27,7 @@ export const ProductPageTemplate = ({
         <div className="container">
           <div className="section">
             <div className="columns">
-              <div className="column is-3 is-offset-1">
+              <div className="column is-10 is-offset-1">
                 <h3 className="has-text-weight-semibold is-size-1">
                   {heading}
                 </h3>
