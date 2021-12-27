@@ -2,10 +2,10 @@
 templateKey: index-page
 title: Grupo de Estudos
 image: /img/TamanhoDoA.jpg
-heading: O Grupo
+heading: Pensamento e prática libertária.
 subheading: Maria Lacerda de Moura
 mainpitch:
-  title: Bem-vindo!
+  title: MLM
   description: >-
     
     O Grupo de Estudos Anarquistas Maria Lacerda de Moura surgiu em meio às jornadas de junho de 2013 tendo em vista a divulgação e debate sobre o anarquismo.
