@@ -4,7 +4,7 @@ path: /encontros
 templateKey: encontros-page
 full_image: /img/TamanhoDoA.jpg
 title: Encontros
-image: /img/cw-768x513.jpg
+image: /img/biografia-maria-lacerda-de-moura.jpg
 description: Nossos encontros Proporcionam o estudo situado na realidade da
   tradição de pensamento anarquista e libertário, através do exercício contínuo
   da prática de autogestão e do debate que conjuga elementos teóricos com a
